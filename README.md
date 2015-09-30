@@ -24,7 +24,9 @@ refer this page http://qiita.com/daxanya1/items/4709ad8454760e17148c
     if error does not appear, installation is successfully completed.
 
 ## How does the code work?
+    $ cd imread
     $ python imread.py
 or
+
     $ cd facedetect/
     $ python facedetect.py
